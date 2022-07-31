@@ -1,3 +1,3 @@
-# Basic JWT Authentication
+# JWT Authentication
 
-This is an example of a Basic JWT Authentication with Next.js
+ Boilerplate for JWT Authentication with Next.js
